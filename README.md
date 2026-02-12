@@ -56,6 +56,12 @@ Evaluation metrics used:
 - R² Score
 
 ---
+## 📁 Project Structure
+student-performance/
+│
+├── student_performance_project.ipynb
+├── student-mat.csv
+├── README.md
 
 ---
 
@@ -72,5 +78,5 @@ Evaluation metrics used:
 A Yasaswee Reddy
 
 
-## 📁 Project Structure
+
 
